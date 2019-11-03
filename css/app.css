@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 100 !important;
+}
+.btn{
+    width: 100%;
+    height: 80px;
+    font-size: 22px;
+    font-weight: 700;
+    font-weight: 100 !important;
+}
+
+table{
+    border-collapse: separate;
+    border: 1px solid #ffffff3d;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+td{
+    padding: 3px 3px;
+}
+
+input[type=text]{
+    border-bottom: none !important;
+    /* background-color: aqua !important; */
+    height: 90px !important;
+    line-height: 90px !important;
+    font-size: 70px !important;
+    color: white;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+    font-weight: 100 !important;
+}
